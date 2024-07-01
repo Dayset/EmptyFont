@@ -21,5 +21,5 @@ Hit PLAY in the Launcher - now you will have almost NO FONTS in the game.
 
 ![img](https://github.com/Dayset/EmptyFont/blob/main/4.png)
 
-![video](https://github.com/Dayset/EmptyFont/blob/main/video.mp4)
+[video](https://github.com/Dayset/EmptyFont/blob/main/video.mp4)
 
